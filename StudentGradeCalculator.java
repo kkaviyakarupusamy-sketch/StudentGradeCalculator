@@ -7,7 +7,7 @@ public class StudentGradeCalculator {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("===== Student Grade Calculator =====");
-
+        System.out.println("Welcome to Student Grade Calculator!");
         System.out.print("Enter student name: ");
         String name = sc.nextLine();
 
